@@ -14,5 +14,13 @@
     "content": "another test",
     "createdAt": 1602530857424,
     "id": "JM-aWFcGPVRLHTyw95FiczXP6tucJI"
+  },
+  {
+    "userId": "github-1165961",
+    "name": "Pedro Mass",
+    "avatar": "https://avatars1.githubusercontent.com/u/1165961?v=4",
+    "content": "with the await",
+    "createdAt": 1602530884798,
+    "id": "k_Hr7nwNxxsOK6I87qRot_6c1kB4RF"
   }
 ]
